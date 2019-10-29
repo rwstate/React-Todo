@@ -1,0 +1,12 @@
+.task:hover {
+  cursor: pointer;
+}
+
+.task.completed {
+  text-decoration: line-through
+}
+
+button {
+  height: 60px;
+  background-color: blue;
+}
